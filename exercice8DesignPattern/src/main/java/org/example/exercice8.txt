@@ -1,0 +1,9 @@
+Exercice : Composite - Organisation d'une société
+
+Objectif :
+Utilisez le pattern Composite pour représenter une organisation où chaque employé peut avoir des subordonnés.
+
+Tâches :
+1. Implémentez une interface `Employee` avec une méthode `showDetails()`.
+2. Créez des classes concrètes pour les managers et les employés individuels.
+3. Testez dans une classe principale en créant une hiérarchie de l'organisation.
