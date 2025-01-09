@@ -1,0 +1,6 @@
+Événement : Un cri au loin attire votre attention.
+Événement : Vous trouvez une source magique qui régénère votre santé.
+Événement : Un labyrinthe obscur se dresse devant vous.
+Événement : Une embuscade de voleurs vous surprend.
+Événement : Un cri au loin attire votre attention.
+Santé finale : 99
